@@ -9,7 +9,7 @@ namespace TrottelsRTSSystem
     /// Terrain Height Sensible RTS Camera with focus on a center point, to which it is parented
     /// todo : make a curve editor window for the vales to make finetuning easier !
     /// 
-    /// (c) 2020 Tom Trottel 
+    /// Made in 2020 by Tom Trottel 
     /// </summary>
     public class TopDownRTSCameraController : MonoBehaviour
     {
@@ -38,16 +38,6 @@ namespace TrottelsRTSSystem
         #endregion
 
         #region Unity Methods
-
-        void Start()
-        {
-        }
-
-
-        void Update()
-        {
-        }
-
         #endregion
 
         #region Class Methods
